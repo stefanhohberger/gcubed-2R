@@ -33,6 +33,7 @@ EXPERIMENT_5: str = "experiment_5/design.csv"
 
 # Midterm essay experiments
 
+EXPERIMENT_DE_FISCAL_PERM_CLOSURE1: str = "experiment_DE_fiscal_perm_closure1/design.csv"
 EXPERIMENT_FISCAL_USA_1: str = "experiment_Fiscal_USA_1/design.csv"
 EXPERIMENT_FISCAL_USA_2: str = "experiment_Fiscal_USA_2/design.csv"
 EXPERIMENT_FISCAL_GLOBAL_1: str = "experiment_Fiscal_Global_1/design.csv"
